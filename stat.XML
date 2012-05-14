@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<info>
+<settings port="1111"/>
+<client banned="false" host="0:0:0:0:0:0:0:1">
+<trafficdat date="2009102514" download="7772" upload="12209"/>
+<trafficdat date="2009102515" download="7000" upload="10000"/>
+<trafficdat date="2009102519" download="10291" upload="24810"/>
+<trafficdat date="2009102520" download="117572" upload="50374"/>
+<trafficdat date="2009102523" download="2829610" upload="44655"/>
+</client>
+<client banned="false" host="127.0.0.1">
+<trafficdat date="2009102519" download="12" upload="418"/>
+<trafficdat date="2009102520" download="120" upload="4361"/>
+</client>
+</info>
